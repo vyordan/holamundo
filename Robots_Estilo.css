@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+    color: rgba(66, 29, 2, 0.765);
+}
+h2{
+    color: rgba(0, 53, 14, 0.918);
+}
+h3{
+    color: rgb(5, 184, 26);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: rgb(22, 95, 3);
+}
+#Color{
+    background-color: rgb(251, 239, 220);
+}
+#Subt1{
+    background-color: rgb(254, 250, 243);
+}
+#Subt2{
+    background-color: rgb(244, 244, 236);
+}
+#imagen{
+    text-align: center;
+}
